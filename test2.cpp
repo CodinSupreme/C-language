@@ -7,12 +7,12 @@ using namespace std;
 int main(){
     string data = "thought";
 
-    switch(1){
-    case 1:
+    switch('A'){
+    case 'A':
         cout << "thought" << endl;
         break;
     
-    case 2:
+    case 'B':
         cout << "wifi"<< endl;
         break;
 
